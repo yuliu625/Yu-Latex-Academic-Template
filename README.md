@@ -1,2 +1,8 @@
-# Yu-Latex-Conference-Template
- 
+# Yu Latex Academic Template
+
+## Overview
+
+
+## Structure
+
+
