@@ -35,7 +35,7 @@ It follows a standardized project structure to efficiently write academic papers
 
 ## More Information
 - **Bibliography**: This project uses **BibTeX** by default, which is compatible with various citation management systems. You can place the `.bib` file in the `contents/references` folder.
-- **Figures**: It is recommended to create an `original_figures` subfolder under the `figures` folder to store the original editable files of the figures (e.g., `.svg`, `.ai`), for easy future modification. Each `.tex` file can directly include the figure and its corresponding `caption`, making it easy to `\input` it directly in `main.tex`.
+- **Figures**: It is recommended to create an `original_figures` subfolder under the `figures` folder to store the original editable files of the figures (e.g., `.svg`, `.ai`), for easy future modification. Each `.tex` file can directly include the figure and its corresponding caption, making it easy to `\input` it directly in `main.tex`.
 - **Algorithms**: This project primarily uses the `{algorithm, algpseudocode}` environment. If you use other packages (like `{algpseudocode}`), you can adjust it as needed.
 
 
