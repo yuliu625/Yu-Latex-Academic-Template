@@ -34,7 +34,7 @@
 
 ## 更多说明
 - **参考文献**: 本项目默认使用 **BibTeX**，它兼容多种文献管理系统。可以将`.bib`文件放置在`contents/references`文件夹中。
-- **图片**: 建议在`figures`文件夹下创建`original_figures`子文件夹，用于存放图片的原始编辑文件(如`.svg`、`.ai`等)，以便后续修改。每个`.tex`文件可以直接包含图片和对应的`caption`，方便在`main.tex`中直接`\input`导入。
+- **图片**: 建议在`figures`文件夹下创建`original_figures`子文件夹，用于存放图片的原始编辑文件(如`.svg`、`.ai`等)，以便后续修改。每个`.tex`文件可以直接包含图片和对应的caption，方便在`main.tex`中直接`\input`导入。
 - **算法**: 本项目主要使用`{algorithm, algpseudocode}`环境。如果使用其他宏包(如 `{algpseudocode}`)，可以根据需要进行调整。
 
 
